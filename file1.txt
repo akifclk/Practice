@@ -1,3 +1,5 @@
 file1.txt
 
 Added some awesome stuff
+
+I am adding more fantastic feature here
